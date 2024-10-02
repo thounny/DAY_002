@@ -3,7 +3,7 @@
 
 This project is part of my **Daily Code Challenge**, where I practice coding every day by working on a small project. This project features a 3D tunnel animation with a gradient effect that transitions from white in the center to pastel colors at the edges. It also includes smooth scrolling interactions with **GSAP** and **Three.js**.
 
-## Demo
+## Inspiration
 
 [Watch the inspiration for this project here](https://we-go-again.com/) — which won Site of the Day on Awwwards.
 
