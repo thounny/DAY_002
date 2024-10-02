@@ -4,7 +4,7 @@ This project is part of my **Daily Code Challenge**, where I practice coding eve
 ---
 ## Inspiration
 
-The shader effect used in this project was inspired by a shader from **Shadertoy**: [https://www.shadertoy.com/view/MstGWH](https://www.shadertoy.com/view/MstGWH)
+The shader effect used in this project was inspired by a shader from **Shadertoy**: [Shader](https://www.shadertoy.com/view/MstGWH)
 ---
 ## Features
 
