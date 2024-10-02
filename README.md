@@ -1,6 +1,6 @@
 # DAY_002: Gradient Tunnel Animation
 
-This project is part of my **Daily Code Challenge**, where I practice coding every day by working on a small project. This project features a 3D tunnel animation with a gradient effect that transitions from white in the center to pastel colors at the edges. It also includes smooth scrolling interactions with **GSAP** and **Three.js**.
+This project is part of my **Daily Code Challenge**, where I practice coding every day by working on a small project. This project features a 3D tunnel animation with a gradient effect that transitions from white in the center to rainbow colors at the edges. It also includes smooth scrolling interactions with **GSAP** and **Three.js**.
 ---
 ## Inspiration
 
@@ -9,7 +9,7 @@ The shader effect used in this project was inspired by a shader from **Shadertoy
 ## Features
 
 - **3D Tunnel Effect**: Created with a custom shader that generates a dynamic gradient effect.
-- **Gradient Animation**: The center of the tunnel is white, and it smoothly transitions into pastel colors as you move toward the edges.
+- **Gradient Animation**: The center of the tunnel is white, and it smoothly transitions into rainbow colors as you move toward the edges.
 - **Smooth Scrolling**: Integrated smooth scroll behavior using **Lenis** and **GSAP ScrollTrigger**.
 ---
 ## Technologies Used
