@@ -62,5 +62,3 @@ DAY_002/
 ├── README.md             # Project documentation
 └── styles.css            # Project styles
 ```
-
-You can now use this as your updated `README.md`. Let me know if any further changes are needed!
